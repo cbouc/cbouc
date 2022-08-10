@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming language (implementation), regular expressions
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me : cbouchon@natsystem.fr
+- 📫 How to reach me : cbouchon+gh@natsystem.fr
 
 <!---
 cbouc/cbouc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
